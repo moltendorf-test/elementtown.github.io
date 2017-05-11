@@ -2,8 +2,8 @@
 
 ## Topics
 
-### Minecraft(Minecraft)
+### Minecraft(minecraft)
 
-### Starmade(Starmade)
+### Starmade(starmade)
 
-### League of Legends(LoL)
+### League of Legends(league)
