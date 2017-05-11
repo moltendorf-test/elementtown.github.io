@@ -1,5 +1,5 @@
 ---
-comments = wiki/minecraft/ideas/voidgame
+comments: wiki/minecraft/ideas/voidgame
 ---
 # Void Game
 
