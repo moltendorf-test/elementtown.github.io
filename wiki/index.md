@@ -1,4 +1,4 @@
-# Element Town Wiki
+# Wiki
 
 ## Topics
 
