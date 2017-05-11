@@ -1,0 +1,4 @@
+---
+comments: true
+---
+# Minecraft Wiki
