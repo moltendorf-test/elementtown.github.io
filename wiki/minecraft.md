@@ -1,4 +1,4 @@
 ---
-comments: true
+comments: wiki/minecraft
 ---
 ## Minecraft on Element Town
