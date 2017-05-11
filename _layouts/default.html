@@ -40,9 +40,11 @@
 							</nav>
 		
 			</header>
-	<a href="https://github.com/elementtown/elementtown.github.io/edit/master/{{ page.file }}">Improve this page.</a>
+	<a class="improve" href="https://github.com/elementtown/elementtown.github.io/edit/master/{{ page.path }}">Improve this page</a>
 <article id="index-module" class="fancy-box">
 	{{ content }}
+	
+	{% include disqus.html %}
 </article>
 	<footer id="footer-wrap">
 					<div id="footer-copyright">
