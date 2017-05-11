@@ -9,6 +9,4 @@ Element Town Website Templates & Wiki
 
 If you're familiar with Git, contributing is easy. Just submit a [Pull Request] and be on your way! If you'd rather be able to edit directly, apply to join our [Wiki Team].
 
-## Links
-
 [Wiki Team]: https://github.com/orgs/elementtown/teams/wiki
