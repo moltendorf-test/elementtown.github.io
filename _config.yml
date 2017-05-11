@@ -1,9 +1,1 @@
 theme: jekyll-theme-tactile
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-      page:
-        comments: true
