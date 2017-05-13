@@ -43,6 +43,7 @@
 	<a class="improve" href="https://github.com/elementtown/elementtown.github.io/edit/master/{{ page.path }}">Improve this page</a>
 <article id="index-module" class="fancy-box">
 	{% if page.title %}<header class="fancy-box"><h1>{{ page.title }}</h1></header>{% endif %}
+	{% if page.stub %}<div class="fancy-box">This page is a stub. Please help us <a href="https://github.com/elementtown/elementtown.github.io/edit/master/{{ page.path }}">improve this page by editing it on GitHub</a>, thanks!</div>{% endif %}
 	
 	{{ content }}
 	
