@@ -1,4 +1,5 @@
 ---
+stub: true
+title: Starmade
 comments: wiki/starmade
 ---
-## Starmade on Element Town

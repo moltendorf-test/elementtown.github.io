@@ -1,6 +1,5 @@
 ---
+stub: true
+title: Void Game Idea
 comments: wiki/minecraft/ideas/voidgame
 ---
-# Void Game
-
-> To be expanded on later.

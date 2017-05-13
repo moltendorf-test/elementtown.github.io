@@ -1,8 +1,8 @@
 ---
+stub: true
+title: Play Command Idea
 comments: wiki/minecraft/ideas/playcommand
 ---
-# Play Command Idea
-
 ### Usage
 
 1. /play with <player>
