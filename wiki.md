@@ -1,5 +1,7 @@
-# Wiki
-
+---
+title: ET Wiki
+stub: true
+---
 ## Topics
 
 ### [Minecraft](wiki/minecraft)
