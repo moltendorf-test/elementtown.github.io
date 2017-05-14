@@ -14,3 +14,319 @@ Missiles are now sexy. Sexy is a great word for Homing Missile Mini Guns, proper
 
 Pulse used to be bad.
 Pulse is hard to use no matter how much it's been buffed, so I hope you can find a use for it! They are all quite unique but it's hard to hit anything that moves, and the damage scales with the size of the entity it's hitting.
+
+
+Cannon
+	
+Damage
+(Per Bullet)
+	
+ Speed
+(m/s)
+	
+ Range
+(Blocks)
+	
+Cooldown
+(Seconds)
+	
+ Power
+(Per shot)
+ No Secondary
+	
+10
+	
+825
+	
+2000
+	
+1
+	
+100
+/Cannon - Rapidfire
+	
+2
+	
+825
+	
+2000
+	
+.1
+	
+20
+/Missile - Shotgun
+	
+8 x 25
+	
+825
+	
+2000
+	
+2
+	
+2200
+/Beam - Railgun
+	
+80
+	
+2475
+	
+6000
+	
+4
+	
+800
+ /Pulse - Blaster
+	
+320
+	
+412
+	
+2000
+	
+6
+	
+3200
+Missile
+	
+Type
+	
+Damage
+	
+Radius
+	
+Speed
+(m/s)
+	
+Range
+(Distance)
+	
+Reload (Seconds)
+	
+Power
+(Per missile)
+No Secondary
+	
+Dumbfire
+	
+300
+	
+12
+	
+163
+	
+3200
+	
+15
+	
+1500
+/Cannon - Homing Missile
+	
+Heatseeking
+	
+120
+	
+12
+	
+163
+	
+1600
+	
+1
+	
+200
+/Missile - Cluster Bomb
+	
+Dumbfire
+	
+180 x 10
+	
+12
+	
+163
+	
+3200
+	
+7.5
+	
+9000
+/Beam - Torpedo
+	
+Lock On
+	
+600
+	
+6
+	
+327
+	
+12800
+	
+15
+	
+8000
+/Pulse - Nuke
+	
+Lock On
+	
+1800 x 2
+	
+48
+	
+81
+	
+9600
+	
+90
+	
+16000
+Beam
+	
+Damage (Per Tick)
+	
+Initial Hit
+	
+Hit Speed
+	
+Burst Time
+	
+Range
+	
+Reload
+(Seconds)
+	
+Power
+(Per Tick)
+No Secondary
+	
+10
+	
+1
+	
+.2
+	
+1
+	
+1000
+	
+1
+	
+100
+/Cannon - Burst
+	
+4 x 8 ticks
+(20 Dmg/sec)
+	
+4
+	
+.1
+	
+.5
+	
+1000
+	
+1.7
+	
+40
+/Missile - Trinity
+	
+55 x 5 ticks x3
+(275 Dmg/sec)
+	
+1
+	
+.8
+	
+4
+	
+333
+	
+15
+	
+800
+/Beam - Stream
+	
+20 per tick
+(100 Dmg/sec)
+	
+1
+	
+.4
+	
+15
+	
+3000
+	
+25
+	
+200
+/Pulse - Zap
+	
+640 + 320
+(2 Ticks, 192 Dps)
+	
+2
+	
+.2
+	
+.1
+	
+500
+	
+5
+	
+3200
+Pulse
+	
+Damage
+	
+Radius
+	
+Reload
+	
+Power
+No Secondary
+	
+200
+	
+20
+	
+5
+	
+500
+/Cannon - Repeater
+	
+80
+	
+20
+	
+1
+	
+200
+/Missile - Shockwave
+	
+400
+	
+100
+	
+25
+	
+5000
+/Beam - Sword
+	
+2400
+	
+10
+	
+30
+	
+6000
+/Pulse - Extend
+	
+800
+	
+40
+	
+10
+	
+4000
