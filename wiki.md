@@ -9,3 +9,5 @@ stub: true
 ### [Starmade](wiki/starmade)
 
 ### [League of Legends](wiki/league)
+
+### [Help](wiki/help)
