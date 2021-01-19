@@ -4,6 +4,8 @@ stub: true
 ---
 ## Topics
 
+### [Fortnite](wiki/fortnite)
+
 ### [Minecraft](wiki/minecraft)
 
 ### [Starmade](wiki/starmade)
